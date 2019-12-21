@@ -67,6 +67,7 @@ int snowman_Notes [ ] = {NOTE_F4, NOTE_AS4, NOTE_DS5, NOTE_G4, NOTE_AS4, NOTE_DS
                         NOTE_DS4, NOTE_D4, NOTE_DS3
                        };
 
+/* Kristen Bell - Do you want to build a snowman 소절 연주 시간 */
 int snowman_Rhythm [ ] = {250, 250, 250, 250, 250, 250, 250, 250,
                          250, 250, 250, 250, 250, 250, 250, 250,
                          250, 250, 250, 250, 250, 250, 250, 250,
