@@ -11,6 +11,7 @@ Christmas music card with Arduino Uno
 - 1x Adhesive Transparent Sticky Tape
 - 2x Magnets
 - 1x Super Glue.
+- 1x Portable Battery
 
 ## Circuit Diagram
 ![Circuit Diagram](XMasicCard_Circuit.png)
