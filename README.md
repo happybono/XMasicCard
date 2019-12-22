@@ -21,7 +21,7 @@ Christmas music card with Arduino Uno
 - 1x Super Glue
 - 1x Portable Battery
 
-## Circuit Diagram
+## Schematics
 ![Circuit Diagram](XMasicCard_Circuit.png)
 
 ## Code to Note
