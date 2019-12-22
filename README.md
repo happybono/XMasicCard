@@ -7,7 +7,7 @@ Christmas music card with Arduino Uno
 * Supports multiple songs, one randomly selected song will be played per time.
 
 ### Connections
-* 1 x Micro-USB
+* 1x Micro-USB (Power)
 
 ## Apparatus (Equipments)
 - Arduino Uno R3 + USB A-to-B Cable
