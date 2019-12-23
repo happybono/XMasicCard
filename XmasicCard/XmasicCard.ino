@@ -90,7 +90,7 @@ int snowman_Rhythm [ ] = {250, 250, 250, 250, 250, 250, 250, 250,
 
 /* We Wish You a Merry Christmas 음계 */
 /* Score available at https://musescore.com/user/6208766/scores/1497501 */
-int wish_Notes [ ] = {   NOTE_C5, //1
+int wish_Notes [ ] = {   NOTE_C5,                                                           
                          NOTE_F5, NOTE_F5, NOTE_G5, NOTE_F5, NOTE_E5,
                          NOTE_D5, NOTE_D5, NOTE_D5,
                          NOTE_G5, NOTE_G5, NOTE_A5, NOTE_G5, NOTE_F5,
@@ -99,7 +99,7 @@ int wish_Notes [ ] = {   NOTE_C5, //1
                          NOTE_F5, NOTE_D5, NOTE_C5, NOTE_C5,
                          NOTE_D5, NOTE_G5, NOTE_E5,
 
-                         NOTE_F5, NOTE_C5, //8
+                         NOTE_F5, NOTE_C5,                                                   
                          NOTE_F5, NOTE_F5, NOTE_G5, NOTE_F5, NOTE_E5,
                          NOTE_D5, NOTE_D5, NOTE_D5,
                          NOTE_G5, NOTE_G5, NOTE_A5, NOTE_G5, NOTE_F5,
@@ -109,7 +109,7 @@ int wish_Notes [ ] = {   NOTE_C5, //1
                          NOTE_D5, NOTE_G5, NOTE_E5,
                          NOTE_F5, NOTE_C5,
 
-                         NOTE_F5, NOTE_F5, NOTE_F5, //17
+                         NOTE_F5, NOTE_F5, NOTE_F5,                                          
                          NOTE_E5, NOTE_E5,
                          NOTE_F5, NOTE_E5, NOTE_D5,
                          NOTE_C5, NOTE_A5,
@@ -120,7 +120,7 @@ int wish_Notes [ ] = {   NOTE_C5, //1
                          NOTE_F5, NOTE_F5, NOTE_G5, NOTE_F5, NOTE_E5,
                          NOTE_D5, NOTE_D5, NOTE_D5,
 
-                         NOTE_G5, NOTE_G5, NOTE_A5, NOTE_G5, NOTE_F5, //27
+                         NOTE_G5, NOTE_G5, NOTE_A5, NOTE_G5, NOTE_F5, 
                          NOTE_E5, NOTE_C5, NOTE_C5,
                          NOTE_A5, NOTE_A5, NOTE_AS5, NOTE_A5, NOTE_G5,
                          NOTE_F5, NOTE_D5, NOTE_C5, NOTE_C5,
@@ -130,7 +130,7 @@ int wish_Notes [ ] = {   NOTE_C5, //1
                          NOTE_E5, NOTE_E5,
                          NOTE_F5, NOTE_E5, NOTE_D5,
 
-                         NOTE_C5, NOTE_A5,//36
+                         NOTE_C5, NOTE_A5,
                          NOTE_AS5, NOTE_A5, NOTE_G5,
                          NOTE_C6, NOTE_C5, NOTE_C5, NOTE_C5,
                          NOTE_D5, NOTE_G5, NOTE_E5,
@@ -149,7 +149,7 @@ int wish_Notes [ ] = {   NOTE_C5, //1
                          NOTE_G5, NOTE_G5, NOTE_A5, NOTE_G5, NOTE_F5,
                          NOTE_E5, NOTE_C5, NOTE_C5,
 
-                         NOTE_A5, NOTE_A5, NOTE_AS5, NOTE_A5, NOTE_G5, //53
+                         NOTE_A5, NOTE_A5, NOTE_AS5, NOTE_A5, NOTE_G5,
                          NOTE_F5, NOTE_D5, NOTE_C5, NOTE_C5,
                          NOTE_D5, NOTE_G5, NOTE_E5,
                          NOTE_F5, 0
