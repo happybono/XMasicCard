@@ -9,6 +9,7 @@
 #include "pitches.h"
 #define PIEZO 5
 
+
 /* 징글벨 음계 : 알기 쉽게 다장조의 음계로 변환하여 처리. */
 int jinglebell_Notes[ ] = { NOTE_G4, NOTE_E5, NOTE_D5, NOTE_C5, NOTE_G4, 0,                  // 솔미레도솔(쉼표)
                             NOTE_G4, NOTE_E5, NOTE_D5, NOTE_C5, NOTE_A4, 0,                  // 솔미레도라(쉼표)
@@ -53,6 +54,7 @@ int jinglebell_Rhythm[ ] = { 250, 250, 250, 250, 750, 250,                      
                              250, 250, 250, 250, 750, 250
                            };
 
+
 /* Do You Want to Build a Snowman 음계 */
 int snowman_Notes [ ] = {NOTE_F4, NOTE_AS4, NOTE_DS5, NOTE_G4, NOTE_AS4, NOTE_DS5, NOTE_GS4, NOTE_AS4,
                          NOTE_F4, NOTE_AS4, NOTE_DS5, NOTE_G4, NOTE_AS4, NOTE_DS5, NOTE_GS4, NOTE_AS4,
@@ -69,7 +71,6 @@ int snowman_Notes [ ] = {NOTE_F4, NOTE_AS4, NOTE_DS5, NOTE_G4, NOTE_AS4, NOTE_DS
                          NOTE_DS4, NOTE_D4, NOTE_DS3
                         };
 
-
 /* Do You Want to Build a Snowman 소절 연주 시간 */
 int snowman_Rhythm [ ] = {250, 250, 250, 250, 250, 250, 250, 250,
                           250, 250, 250, 250, 250, 250, 250, 250,
@@ -85,6 +86,7 @@ int snowman_Rhythm [ ] = {250, 250, 250, 250, 250, 250, 250, 250,
                           250, 250, 250, 250, 250, 250, 250, 500, 2000,
                           250, 250, 400
                          };
+
 
 /* We Wish You a Merry Christmas 음계 */
 /* Score available at https://musescore.com/user/6208766/scores/1497501 */
